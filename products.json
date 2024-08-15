@@ -1,0 +1,43 @@
+[
+    {
+        "title": "This is product 1",
+        "description": "this is product description",
+        "price": 489,
+        "tags": [
+            "Apple",
+            "Mobile",
+            "Elec"
+        ],
+        "author": {
+            "name": "Rafiul",
+            "email":"raf@rafiul.com"
+        },
+        "rating": 4,
+        "comments": [
+            {
+                "productId":1
+            }
+        ]
+    },
+    {
+        "title": "This is product 2",
+        "description": "this is product description",
+        "price": 489,
+        "tags": [
+            "Apple",
+            "Mobile",
+            "Elec"
+        ],
+        "author": {
+            "name": "Rafiul",
+            "email":"raf@rafiul.com"
+        },
+        "rating": 4,
+        "comments": [
+            {
+                "productId":1
+            }
+        ]
+    }
+
+]
